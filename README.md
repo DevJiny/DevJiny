@@ -1,5 +1,5 @@
 
-![DevJiny's github stats](https://github-readme-stats.vercel.app/api?username=DevJiny&count_private=true&hide=stars,prs,issues,contribs) 
+![DevJiny's github stats](https://github-readme-stats.vercel.app/api?username=DevJiny&count_private=true&hide=stars,prs,issues,contribs&theme=dracula) 
 
 
 * * *
